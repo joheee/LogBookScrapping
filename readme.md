@@ -1,4 +1,4 @@
-# JavaScript x ChatGPT
+# Schedule List
 
 - MAY
   - total day
