@@ -24,7 +24,7 @@
   - total day
     - week 1 -> 1 days -> activity = setup database through docker in proxmox
 
-# Prompting Text
+# GPT Prompt
 ```javascript
 dear GPT, take this as your dataset for my future prompt
 // DATA
