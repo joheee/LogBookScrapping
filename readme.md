@@ -25,9 +25,8 @@
     - week 1 -> 1 days -> activity = setup database through docker in proxmox
 
 # Prompting Text
-take this as your dataset for my future prompt
-
 ```javascript
+dear GPT, take this as your dataset for my future prompt
 // DATA
 class Data {
   constructor(editActivity, editDescription) {
