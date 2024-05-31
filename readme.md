@@ -1,5 +1,4 @@
 # Schedule List
-
 - MAY
   - total day
     - week 1 -> 4 days -> activity = setup proxmox
@@ -76,3 +75,5 @@ so i need to update my thesis progress inside a web called "Log Book". It need t
     - week 3 -> 6 days -> activity = frontend UI development
     - week 4 -> 6 days -> activity = design ERD for database
     - week 5 -> 6 days -> activity = backend development
+
+take example in week 2 it says 6 days, that is mean u need to create 6 new Data for week 2
