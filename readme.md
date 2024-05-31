@@ -27,6 +27,7 @@
 # Prompting Text
 take this as your dataset for my future prompt
 
+```javascript
 // DATA
 class Data {
   constructor(editActivity, editDescription) {
@@ -65,7 +66,6 @@ buttonsArray.forEach((b, i) => {
   editDescription.value = datas[i].editDescription;
   submit.click();
 });
-
 
 
 so i need to update my thesis progress inside a web called "Log Book". It need to be input for each week start from monday until saturday, so the total will be 6 input in each week. I would like to ask your help to make the description inside const datas for the activity i have made for each week, lets start.
