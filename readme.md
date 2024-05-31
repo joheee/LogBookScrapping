@@ -76,4 +76,4 @@ so i need to update my thesis progress inside a web called "Log Book". It need t
     - week 4 -> 6 days -> activity = design ERD for database
     - week 5 -> 6 days -> activity = backend development
 
-take example in week 2 it says 6 days, that is mean u need to create 6 new Data for week 2
+take example in week 2 it says 6 days, that is mean u need to create 6 new Data for week 2. I want you to give me just the final result of my const datas, so i can copy it into the javascript code
