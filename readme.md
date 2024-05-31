@@ -1,4 +1,4 @@
-# prompt at Log Book Scripting -> Chrome Johevin Blesstowi
+# JavaScript x ChatGPT
 
 - MAY
   total day
