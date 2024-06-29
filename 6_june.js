@@ -8,16 +8,6 @@ class Data {
   }
 }
 
-// DATA
-class Data {
-  constructor(editActivity, editDescription) {
-    this.editClockIn = "09:00 am";
-    this.editClockOut = "05:00 pm";
-    this.editActivity = editActivity;
-    this.editDescription = editDescription;
-  }
-}
-
 // LIST OF ALL DATA
 const datas = [
   // Week 1
