@@ -9,12 +9,45 @@ class Data {
 }
 
 // LIST OF ALL DATA
+// LIST OF ALL DATA
 const datas = [
-  new Data(
-    "activity",
-    "description"
-  ),
+  // Week 1 - finalize psexec configuration
+  new Data("finalize psexec configuration", "finalize psexec configuration"),
+  new Data("finalize psexec configuration", "finalize psexec configuration"),
+  new Data("finalize psexec configuration", "finalize psexec configuration"),
+  new Data("finalize psexec configuration", "finalize psexec configuration"),
+  new Data("finalize psexec configuration", "finalize psexec configuration"),
+  new Data("finalize psexec configuration", "finalize psexec configuration"),
+
+  // Week 2 - ensure connection between network directory and psexec
+  new Data("ensure connection between network directory and psexec", "ensure connection between network directory and psexec"),
+  new Data("ensure connection between network directory and psexec", "ensure connection between network directory and psexec"),
+  new Data("ensure connection between network directory and psexec", "ensure connection between network directory and psexec"),
+  new Data("ensure connection between network directory and psexec", "ensure connection between network directory and psexec"),
+  new Data("ensure connection between network directory and psexec", "ensure connection between network directory and psexec"),
+  new Data("ensure connection between network directory and psexec", "ensure connection between network directory and psexec"),
+
+  // Week 3 - create python service for psexec
+  new Data("create python service for psexec", "create python service for psexec"),
+  new Data("create python service for psexec", "create python service for psexec"),
+  new Data("create python service for psexec", "create python service for psexec"),
+  new Data("create python service for psexec", "create python service for psexec"),
+  new Data("create python service for psexec", "create python service for psexec"),
+  new Data("create python service for psexec", "create python service for psexec"),
+
+  // Week 4 - create python service for psexec
+  new Data("create python service for psexec", "create python service for psexec"),
+  new Data("create python service for psexec", "create python service for psexec"),
+  new Data("create python service for psexec", "create python service for psexec"),
+  new Data("create python service for psexec", "create python service for psexec"),
+  new Data("create python service for psexec", "create python service for psexec"),
+  new Data("create python service for psexec", "create python service for psexec"),
+
+  // Week 5 - create python service for psexec
+  new Data("create python service for psexec", "create python service for psexec"),
+  new Data("create python service for psexec", "create python service for psexec")
 ];
+
 
 // LOGIC FOR SCRAPPING
 const buttons = document.querySelectorAll(".button.button-primary.detailsbtn");     // BUTTON SUBMIT
