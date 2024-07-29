@@ -48,7 +48,6 @@ const datas = [
   new Data("create python service for psexec", "create python service for psexec")
 ];
 
-
 // LOGIC FOR SCRAPPING
 const buttons = document.querySelectorAll(".button.button-primary.detailsbtn");     // BUTTON SUBMIT
 // const buttons = document.querySelectorAll(".button.button-orange.detailsbtn");      // BUTTON EDIT
