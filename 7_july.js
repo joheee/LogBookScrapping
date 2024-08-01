@@ -45,6 +45,7 @@ const datas = [
 
   // Week 5 - create python service for psexec
   new Data("create python service for psexec", "create python service for psexec"),
+  new Data("create python service for psexec", "create python service for psexec"),
   new Data("create python service for psexec", "create python service for psexec")
 ];
 
