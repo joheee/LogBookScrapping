@@ -9,7 +9,6 @@ class Data {
 }
 
 // LIST OF ALL DATA
-// LIST OF ALL DATA
 const datas = [
   // Week 1 - finalize psexec configuration
   new Data("finalize psexec configuration", "finalize psexec configuration"),
@@ -44,6 +43,7 @@ const datas = [
   new Data("create python service for psexec", "create python service for psexec"),
 
   // Week 5 - create python service for psexec
+  new Data("create python service for psexec", "create python service for psexec"),
   new Data("create python service for psexec", "create python service for psexec"),
   new Data("create python service for psexec", "create python service for psexec")
 ];
