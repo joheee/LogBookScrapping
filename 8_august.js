@@ -49,7 +49,6 @@ const datas = [
   new Data("testing features", "Finalized testing and prepared for production release."),
 ];
 
-
 // LOGIC FOR SCRAPPING
 const buttons = document.querySelectorAll(".button.button-primary.detailsbtn");     // BUTTON SUBMIT
 // const buttons = document.querySelectorAll(".button.button-orange.detailsbtn");      // BUTTON EDIT
