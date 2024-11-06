@@ -54,6 +54,7 @@ buttonsArray.forEach((b, i) => {
   const editDescription = document.getElementById("editDescription");
   const submit = document.querySelector(
     '.button.button-primary[onclick="editSaveClick()"]'
+    
   );
   b.click();
 
